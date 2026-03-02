@@ -7,3 +7,4 @@ let nome = "Celina"; // Tipo Stripg
 console.log("Nome:", nome);
 
 console.log("Meu nome é", nome, "e tenho", idade, "anos");
+ 
